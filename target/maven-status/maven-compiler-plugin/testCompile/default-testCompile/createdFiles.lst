@@ -1,0 +1,12 @@
+PageObjects\HomePage.class
+TestManager\Listener.class
+ProductDetailPage.class
+TestManager\ConfigReader.class
+PageObjects\ProductsPage.class
+TestManager\BaseTest.class
+TestManager\DriverOptions.class
+TestClass\BoynerE2ETest.class
+PageObjects\BasePage.class
+TestManager\ReusableMethods.class
+TestManager\DriverCross.class
+TestManager\Log.class
